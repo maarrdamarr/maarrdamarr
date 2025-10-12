@@ -11,7 +11,7 @@ async function getFilm() {
 
   // acak 1 film
   const film = films[Math.floor(Math.random() * films.length)];
-  // beberapa API return field berbeda; fallback
+  // fallback jika field berbeda
   const poster = film.image || film.movie_banner || '';
   const title = film.title || 'Judul tidak diketahui';
   const year = film.release_date || '????';
@@ -55,7 +55,7 @@ try {
   console.log('Updated README with:', title);
 } catch (e) {
   console.error('Gagal update:', e.message);
-  // tampilkan placeholder error (tanpa memutus workflow)
+  // placeholder elegan saat gagal
   const fallback = `
 <p align="center">
   <b>Tidak bisa memuat film hari ini.</b><br/>
@@ -63,4 +63,3 @@ try {
 </p>`.trim();
   injectToReadme(fallback);
 }
-
