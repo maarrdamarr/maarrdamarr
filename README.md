@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=maarrdamarr&fontSize=44&fontColor=ffffff&color=0:2a9df4,100:0ea5e9&desc=Damar%20Ninuwidarma%20%7C%20Laravel%20•%20Livewire%20•%20Tailwind&descAlign=50&descSize=14" width="100%" alt="header wave"/>
 
 <p align="center">
-  <a href="mailto:kamu@contoh.com">
+  <a href="mailto:damarninuwidarma@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-kamu%40contoh.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/maarrdamarr">
