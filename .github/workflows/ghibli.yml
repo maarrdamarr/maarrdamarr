@@ -1,9 +1,8 @@
-
 name: Update Cartoon of the Day
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # jalan tiap hari 00:00 UTC = 07:00 WIB
+    - cron: '0 0 * * *'   # 00:00 UTC = 07:00 WIB
   workflow_dispatch:
 
 permissions:
