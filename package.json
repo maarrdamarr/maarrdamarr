@@ -1,1 +1,9 @@
+{
+  "name": "github-profile-readme",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Profile README with daily cartoon (Studio Ghibli) updater",
+  "license": "MIT"
+}
 
