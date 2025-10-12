@@ -1,1 +1,30 @@
 
+name: Update Cartoon of the Day
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # jalan tiap hari 00:00 UTC = 07:00 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ghibli:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: '20'
+
+      - name: Update README (Ghibli)
+        run: node .github/scripts/ghibli.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update 🎬 Film Kartun Hari Ini"
