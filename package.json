@@ -1,9 +1,8 @@
 {
-  "name": "github-profile-readme",
+  "name": "github-profile-readme-elegant",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Profile README with daily cartoon (Studio Ghibli) updater",
+  "description": "Elegant profile README with daily cartoon (Studio Ghibli), snake contributions, and clean metrics",
   "license": "MIT"
 }
-
