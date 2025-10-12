@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Halo%20%F0%9F%91%8B;Selamat%20datang%20di%20markas%20Damar;Laravel%20%7C%20Livewire%20%7C%20Tailwind" alt="Typing SVG">
 </p>
 
-<h1 align="center">Hi, aku Damar 👋</h1>
+<h1 align="center">Hi,Call me Damar 👋</h1>
 <p align="center">
-  Code • Belajar • Bangun produk bermanfaat
+  Code • 
 </p>
 
 <p align="center">
@@ -18,18 +18,18 @@
 
 ### ⚡ Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maarrdamarr&show_icons=true&hide_border=true" alt="stats"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=donut&hide_border=true" alt="top langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarrdamarr&layout=donut&hide_border=true" alt="top langs"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=maarrdamarr&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="trophies"/>
   </a>
 </p>
 
