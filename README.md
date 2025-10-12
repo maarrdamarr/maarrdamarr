@@ -4,11 +4,11 @@
 <!-- ============================================== -->
 
 <!-- Header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=maarrdamarr&fontSize=44&fontColor=ffffff&color=0:2a9df4,100:0ea5e9&desc=Damar%20Ninuwidarma%20%7C%20Laravel%20•%20Livewire%20•%20Tailwind&descAlign=50&descSize=14" width="100%" alt="header wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=maarrdamarr&fontSize=44&fontColor=ffffff&color=0:2a9df4,100:0ea5e9&desc=Laravel%20•%20Livewire%20•%20Tailwind&descAlign=50&descSize=14" width="100%" alt="header wave"/>
 
 <p align="center">
-  <a href="mailto:damarninuwidarma@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-kamu%40contoh.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:maarrdamarr@users.noreply.github.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-maarrdamarr%40users.noreply.github.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/maarrdamarr">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=maarrdamarr&label=Profile%20views&style=for-the-badge&color=0ea5e9">
@@ -20,8 +20,8 @@
 ---
 
 ### ✨ About
-- Fokus: Laravel 12, Livewire (Volt), Tailwind, UI/UX rapi, dan workflow bersih.
-- Suka bikin web akademik/sekolah, CBT ujian, dashboard payroll, dsb.
+- Fokus: Laravel 12, Livewire (Volt), Tailwind, UI/UX rapi.
+- Portofolio: web akademik/sekolah, CBT ujian, dashboard payroll.
 - Prinsip: simple dulu, cepat dipakai, baru tambah fitur.
 
 ---
@@ -60,7 +60,6 @@ Menunggu update pertama...
 ---
 
 ### 📌 Highlight Projects
-<!-- Ganti repo jika perlu. Kartu tetap minimalis dan rapi. -->
 <p align="center">
   <a href="https://github.com/maarrdamarr/damar-dcbtujian">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maarrdamarr&repo=damar-dcbtujian&hide_border=true" alt="damar-dcbtujian"/>
@@ -80,8 +79,7 @@ Menunggu update pertama...
 ---
 
 ### 🤝 Kolaborasi
-Butuh landing page, dashboard admin, atau sistem CBT/pendaftaran sekolah?  
-<i>Ping aja via email. Kita bikin yang clean dan enak dipakai.</i>
+<i>Ping via email — mari bikin sesuatu yang clean, elegan, dan enak dipakai.</i>
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0ea5e9,100:2a9df4" width="100%" alt="footer wave"/>
