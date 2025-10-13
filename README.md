@@ -53,7 +53,11 @@
 
 ## 🎬 Film Kartun Hari Ini
 <!-- GHIBLI_START -->
-Menunggu update pertama...
+<p align="center">
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mikKSEdk5kLhflWXbp4S5mmHsDo.jpg" alt="Ponyo" width="320"><br/>
+  <b>Ponyo (2008)</b><br/>
+  Sutradara: Hayao Miyazaki
+</p>
 <!-- GHIBLI_END -->
 <sub><i>Auto-update setiap hari 07:00 WIB (00:00 UTC).</i></sub>
 
