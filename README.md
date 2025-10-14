@@ -63,16 +63,6 @@
 
 ---
 
-### 📌 Highlight Projects
-<p align="center">
-  <a href="https://github.com/maarrdamarr/damar-dcbtujian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maarrdamarr&repo=damar-dcbtujian&hide_border=true" alt="damar-dcbtujian"/>
-  </a>
-  <a href="https://github.com/maarrdamarr/damar-dgajiku">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maarrdamarr&repo=damar-dgajiku&hide_border=true" alt="damar-dgajiku"/>
-  </a>
-</p>
-
 ---
 
 ### 🐍 Contributions (Snake)
