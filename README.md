@@ -24,7 +24,7 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,livewire,tailwind,bootstrap,js,ts,react,html,css,git,github,vscode,mysql&perline=10" />
@@ -33,7 +33,7 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 
 ---
 
-### 📊 Clean Metrics
+### Clean Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maarrdamarr&show_icons=true&hide_border=true&rank_icon=github&theme=default" height="150" alt="stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maarrdamarr&hide_border=true" height="150" alt="streak"/>
