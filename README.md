@@ -20,9 +20,7 @@
 ---
 
 ### ✨ About
-- Fokus: Laravel 12, Livewire (Volt), Tailwind, UI/UX rapi.
-- Portofolio: web akademik/sekolah, CBT ujian, dashboard payroll.
-- Prinsip: simple dulu, cepat dipakai, baru tambah fitur.
+Let me introduce myself, my name is Damar,
 
 ---
 
