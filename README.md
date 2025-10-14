@@ -35,12 +35,7 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 
 ### Clean Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maarrdamarr&show_icons=true&hide_border=true&rank_icon=github&theme=default" height="150" alt="stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maarrdamarr&hide_border=true" height="150" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarrdamarr&layout=donut&hide_border=true" height="180" alt="top langs"/>
 </p>
 
 <p align="center">
