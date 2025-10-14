@@ -63,7 +63,7 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 
 ---
 
-### 🐍 Contributions (Snake)
+### Contributions 
 <p align="center">
   <img src="https://github.com/maarrdamarr/maarrdamarr/blob/output/snake.svg" alt="snake" />
 </p>
