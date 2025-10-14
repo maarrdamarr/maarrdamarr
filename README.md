@@ -19,8 +19,8 @@
 
 ---
 
-### ✨ About
-Let me introduce myself, my name is Damar,
+### About
+Let me introduce myself, my name is Damar,Building useful things, learning every day, and leaving people better than I found them.
 
 ---
 
@@ -49,7 +49,7 @@ Let me introduce myself, my name is Damar,
 
 ---
 
-## 🎬 Film Kartun Hari Ini
+## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
   <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mikKSEdk5kLhflWXbp4S5mmHsDo.jpg" alt="Ponyo" width="320"><br/>
@@ -69,9 +69,6 @@ Let me introduce myself, my name is Damar,
 </p>
 
 ---
-
-### 🤝 Kolaborasi
-<i>Ping via email — mari bikin sesuatu yang clean, elegan, dan enak dipakai.</i>
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0ea5e9,100:2a9df4" width="100%" alt="footer wave"/>
