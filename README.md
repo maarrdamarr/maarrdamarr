@@ -7,9 +7,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=maarrdamarr&fontSize=44&fontColor=ffffff&color=0:2a9df4,100:0ea5e9&desc=Laravel%20•%20Livewire%20•%20Tailwind&descAlign=50&descSize=14" width="100%" alt="header wave"/>
 
 <p align="center">
-  <a href="mailto:maarrdamarr@users.noreply.github.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-maarrdamarr%40users.noreply.github.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://github.com/maarrdamarr">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=maarrdamarr&label=Profile%20views&style=for-the-badge&color=0ea5e9">
   </a>
@@ -53,8 +50,6 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 </p>
 <!-- GHIBLI_END -->
 <sub><i>Auto-update setiap hari 07:00 WIB (00:00 UTC).</i></sub>
-
----
 
 ---
 
