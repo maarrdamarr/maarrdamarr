@@ -44,9 +44,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTGuHmMIBBgKakY80J1D52VvQKI.jpg" alt="My Neighbors the Yamadas" width="320"><br/>
-  <b>My Neighbors the Yamadas (1999)</b><br/>
-  Sutradara: Isao Takahata
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRLYX4RZIyloHSJwvZKAhphAjiB.jpg" alt="From Up on Poppy Hill" width="320"><br/>
+  <b>From Up on Poppy Hill (2011)</b><br/>
+  Sutradara: Gorō Miyazaki
 </p>
 <!-- GHIBLI_END -->
 <sub><i>Auto-update setiap hari 07:00 WIB (00:00 UTC).</i></sub>
