@@ -44,13 +44,6 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
   <img src="https://github-profile-trophy.vercel.app/?username=maarrdamarr&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="trophy"/>
 </p>
 
-### Clean Metrics
-<!-- Mini bio + GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"><br>
-  <sub>Ngoding santai, rapi, dan fokus ke DX (Developer Experience) ✨</sub>
-</div>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maarrdamarr&hide_border=true&radius=10&area=true&custom_title=Activity%20Graph" alt="activity graph" />
 </p>
