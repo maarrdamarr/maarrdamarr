@@ -45,7 +45,16 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maarrdamarr&hide_border=true&radius=10&area=true&custom_title=Activity%20Graph" alt="activity graph" />
+  <picture>
+    <!-- Dark mode: hitam + garis/teks putih -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=maarrdamarr&hide_title=true&hide_border=true&grid=false&radius=8&height=280&bg_color=0a0a0a&color=ffffff&line=ffffff&point=ffffff" />
+    <!-- Light mode: putih + garis/teks hitam -->
+    <img
+      alt="GitHub Activity Graph — Black & White"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=maarrdamarr&hide_title=true&hide_border=true&grid=false&radius=8&height=280&bg_color=ffffff&color=0a0a0a&line=0a0a0a&point=0a0a0a" />
+  </picture>
 </p>
 
 ---
