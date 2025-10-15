@@ -30,11 +30,30 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 
 ---
 ### 📊 Statistik GitHub
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maarrdamarr&show_icons=true&hide_border=true&rank_icon=github&theme=radical" alt="stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=maarrdamarr&theme=radical&hide_border=true" alt="streak"/>
-  <br/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarrdamarr&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="top langs"/>
+
+<!-- Stats + Streak -->
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=maarrdamarr&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true"
+        alt="GitHub Stats @maarrdamarr" />
+    </td>
+    <td>
+      <img 
+        src="https://streak-stats.demolab.com?user=maarrdamarr&theme=transparent&hide_border=true"
+        alt="GitHub Streak @maarrdamarr" />
+    </td>
+  </tr>
+</table>
+
+<!-- Top Langs -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarrdamarr&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+  alt="Top Languages @maarrdamarr" />
+
 </div>
 
 ---
