@@ -81,9 +81,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRLYX4RZIyloHSJwvZKAhphAjiB.jpg" alt="From Up on Poppy Hill" width="320"><br/>
-  <b>From Up on Poppy Hill (2011)</b><br/>
-  Sutradara: Gorō Miyazaki
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBU3SLjQ9358Km9YWYasPZyebp.jpg" alt="The Red Turtle" width="320"><br/>
+  <b>The Red Turtle (2016)</b><br/>
+  Sutradara: Michaël Dudok de Wit
 </p>
 <!-- GHIBLI_END -->
 <sub><i>Auto-update setiap hari 07:00 WIB (00:00 UTC).</i></sub>
