@@ -86,7 +86,7 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
   Sutradara: Gorō Miyazaki
 </p>
 <!-- GHIBLI_END -->
-<sub><i>Auto-update setiap hari 07:00 WIB (00:00 UTC).</i></sub>
+<sub><i>Auto-update 07:00 WIB (00:00 UTC).</i></sub>
 
 ---
 
