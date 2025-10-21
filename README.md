@@ -18,7 +18,7 @@
 
 ### About
 Let me introduce myself, my name is Damar,Building useful things, learning every day, and leaving people better than I found them.
-**others are private, sorry**
+**Other repositories are private, sorry**
 
 ---
 
