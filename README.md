@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg" alt="Spirited Away" width="320"><br/>
-  <b>Spirited Away (2001)</b><br/>
-  Sutradara: Hayao Miyazaki
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E3Hvbu0bg38ouYf6chGftVGqZ7.jpg" alt="Whisper of the Heart" width="320"><br/>
+  <b>Whisper of the Heart (1995)</b><br/>
+  Sutradara: Yoshifumi Kondō
 </p>
 <!-- GHIBLI_END -->
 <sub><i>Auto-update 07:00 WIB (00:00 UTC).</i></sub>
