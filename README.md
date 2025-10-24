@@ -87,7 +87,7 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
   Sutradara: Hayao Miyazaki
 </p>
 <!-- GHIBLI_END -->
-<sub><i>Auto-update 07:00 WIB (00:00 UTC).</i></sub>
+
 
 ---
 
