@@ -82,8 +82,8 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg" alt="Spirited Away" width="320"><br/>
-  <b>Spirited Away (2001)</b><br/>
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npOnzAbLh6VOIu3naU5QaEcTepo.jpg" alt="Castle in the Sky" width="320"><br/>
+  <b>Castle in the Sky (1986)</b><br/>
   Sutradara: Hayao Miyazaki
 </p>
 <!-- GHIBLI_END -->
