@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRLYX4RZIyloHSJwvZKAhphAjiB.jpg" alt="From Up on Poppy Hill" width="320"><br/>
-  <b>From Up on Poppy Hill (2011)</b><br/>
-  Sutradara: Gorō Miyazaki
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byKAndF6KQSDpGxp1mTr23jPbYp.jpg" alt="Porco Rosso" width="320"><br/>
+  <b>Porco Rosso (1992)</b><br/>
+  Sutradara: Hayao Miyazaki
 </p>
 <!-- GHIBLI_END -->
 
