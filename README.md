@@ -82,8 +82,8 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byKAndF6KQSDpGxp1mTr23jPbYp.jpg" alt="Porco Rosso" width="320"><br/>
-  <b>Porco Rosso (1992)</b><br/>
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg" alt="The Wind Rises" width="320"><br/>
+  <b>The Wind Rises (2013)</b><br/>
   Sutradara: Hayao Miyazaki
 </p>
 <!-- GHIBLI_END -->
