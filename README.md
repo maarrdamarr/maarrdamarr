@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nO5DUMnGUuXrA4r2h6ESOKQRrx.jpg" alt="Kiki's Delivery Service" width="320"><br/>
-  <b>Kiki's Delivery Service (1989)</b><br/>
-  Sutradara: Hayao Miyazaki
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg" alt="The Tale of the Princess Kaguya" width="320"><br/>
+  <b>The Tale of the Princess Kaguya (2013)</b><br/>
+  Sutradara: Isao Takahata
 </p>
 <!-- GHIBLI_END -->
 
