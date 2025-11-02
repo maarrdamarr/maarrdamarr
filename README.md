@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg" alt="My Neighbor Totoro" width="320"><br/>
-  <b>My Neighbor Totoro (1988)</b><br/>
-  Sutradara: Hayao Miyazaki
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avPMO5cnaGHgLaNiAIhy33WoQLm.jpg" alt="The Cat Returns" width="320"><br/>
+  <b>The Cat Returns (2002)</b><br/>
+  Sutradara: Hiroyuki Morita
 </p>
 <!-- GHIBLI_END -->
 
