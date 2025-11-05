@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npOnzAbLh6VOIu3naU5QaEcTepo.jpg" alt="Castle in the Sky" width="320"><br/>
-  <b>Castle in the Sky (1986)</b><br/>
-  Sutradara: Hayao Miyazaki
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjJU6rwzLX7Jk8HFQfVW6H5guMC.jpg" alt="Only Yesterday" width="320"><br/>
+  <b>Only Yesterday (1991)</b><br/>
+  Sutradara: Isao Takahata
 </p>
 <!-- GHIBLI_END -->
 
