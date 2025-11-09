@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kowo9E1e1JcWLXj9cCvAOFZcy5n.jpg" alt="Pom Poko" width="320"><br/>
-  <b>Pom Poko (1994)</b><br/>
-  Sutradara: Isao Takahata
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mikKSEdk5kLhflWXbp4S5mmHsDo.jpg" alt="Ponyo" width="320"><br/>
+  <b>Ponyo (2008)</b><br/>
+  Sutradara: Hayao Miyazaki
 </p>
 <!-- GHIBLI_END -->
 
