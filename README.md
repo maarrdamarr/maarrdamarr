@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc2OB2KDmSRDMelKEAA1n4YRQL0.jpg" alt="Arrietty" width="320"><br/>
-  <b>Arrietty (2010)</b><br/>
-  Sutradara: Hiromasa Yonebayashi
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qG3RYlIVpTYclR9TYIsy8p7m7AT.jpg" alt="Grave of the Fireflies" width="320"><br/>
+  <b>Grave of the Fireflies (1988)</b><br/>
+  Sutradara: Isao Takahata
 </p>
 <!-- GHIBLI_END -->
 
