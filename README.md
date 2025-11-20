@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mikKSEdk5kLhflWXbp4S5mmHsDo.jpg" alt="Ponyo" width="320"><br/>
-  <b>Ponyo (2008)</b><br/>
-  Sutradara: Hayao Miyazaki
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc2OB2KDmSRDMelKEAA1n4YRQL0.jpg" alt="Arrietty" width="320"><br/>
+  <b>Arrietty (2010)</b><br/>
+  Sutradara: Hiromasa Yonebayashi
 </p>
 <!-- GHIBLI_END -->
 
