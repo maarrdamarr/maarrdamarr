@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg" alt="The Tale of the Princess Kaguya" width="320"><br/>
-  <b>The Tale of the Princess Kaguya (2013)</b><br/>
-  Sutradara: Isao Takahata
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TkTPELv4kC3u1lkloush8skOjE.jpg" alt="Howl's Moving Castle" width="320"><br/>
+  <b>Howl's Moving Castle (2004)</b><br/>
+  Sutradara: Hayao Miyazaki
 </p>
 <!-- GHIBLI_END -->
 
