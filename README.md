@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TkTPELv4kC3u1lkloush8skOjE.jpg" alt="Howl's Moving Castle" width="320"><br/>
-  <b>Howl's Moving Castle (2004)</b><br/>
-  Sutradara: Hayao Miyazaki
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTGuHmMIBBgKakY80J1D52VvQKI.jpg" alt="My Neighbors the Yamadas" width="320"><br/>
+  <b>My Neighbors the Yamadas (1999)</b><br/>
+  Sutradara: Isao Takahata
 </p>
 <!-- GHIBLI_END -->
 
