@@ -82,9 +82,9 @@ Let me introduce myself, my name is Damar,Building useful things, learning every
 ## TODAY
 <!-- GHIBLI_START -->
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg" alt="When Marnie Was There" width="320"><br/>
-  <b>When Marnie Was There (2014)</b><br/>
-  Sutradara: Hiromasa Yonebayashi
+  <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg" alt="The Wind Rises" width="320"><br/>
+  <b>The Wind Rises (2013)</b><br/>
+  Sutradara: Hayao Miyazaki
 </p>
 <!-- GHIBLI_END -->
 
